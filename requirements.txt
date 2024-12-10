@@ -3,3 +3,6 @@ ipython
 numpy
 pandas
 matplotlib
+seaborn
+plotly
+
